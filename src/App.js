@@ -10,13 +10,14 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>This is a new paragraph</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          New Feature Branch
+          Learn React
         </a>
       </header>
     </div>
